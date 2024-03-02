@@ -2,3 +2,4 @@ Flask
 Flask-CORS
 numpy
 scikit-learn
+Gunicorn
